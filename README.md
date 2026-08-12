@@ -41,7 +41,7 @@ Zheng Zhang, Zaina Nadeem, Laxmi Pesara, Gavino Vargas, Ashton Moraes, Amen Bush
 
 ## Project Poster
 
-![AccessMap project poster](reports/poster.jpg)
+![AccessMap project poster](poster.jpg)
 
 *AI4ALL Group 13A — AccessMap Poster*
 
